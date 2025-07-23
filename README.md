@@ -1,4 +1,4 @@
-# EVE Online Corp Alliance Stat WordPress Shortcodes
+# EVE Online Corp Stat WordPress Shortcodes
 `[zkill_stats_members id="x"]`, `[zkill_stats_ships id="x"]`, and `[zkill_stats_isk id="x"]` to display member count, total ships destroyed and total ISK destroyed.
 
 Replace `"x"` with the corporation `ID`
