@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: EVE Corp & Alliance Stat Shortcodes
-Description: Adds shortcodes [zkill_stats_members id="x"], [zkill_stats_ships id="x"], and [zkill_stats_isk id="x"] to display member count, total ships destroyed and total ISK destroyed. Combine stats with id="x,y", or alliance stats with "id=x" type="alliance".
-Version: 1.0
+Description: Adds shortcodes [zkill_stats_members id="x"], [zkill_stats_ships id="x"], and [zkill_stats_isk id="x"] to display member count, total ships destroyed and total ISK destroyed. Combine stats with [zkill_stats_members id="x,y"], or alliance stats with [zkill_stats_members id="x" type="alliance"].
+Version: 1.0.1
 Author: C4813
 */
 
