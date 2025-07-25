@@ -2,7 +2,7 @@
 `[zkill_stats_members id="x"]`, `[zkill_stats_ships id="x"]`, and `[zkill_stats_isk id="x"]` to display member count, total ships destroyed and total ISK destroyed.
 
 Replace `"x"` with the corporation `ID`
-Combine values from more than one corp with` "x,y"`
+Combine values from more than one corp with `"x,y"`
 Alliance stats with `"z" type="Alliance"`
 
 **Examples**
